@@ -66,10 +66,10 @@ print(returset)
 print(fruty)
 print(compny)
 
-''''
-fruty.difference_udate(compnty)
-print(fruty)
-'''
+
+#fruty.difference_udate(compnty)
+#print(fruty)
+
 
 #symmetric_difference() keeps elements not present in both sets
 #use '^' operator for the same result
