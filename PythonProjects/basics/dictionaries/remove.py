@@ -22,3 +22,6 @@ print(thisdict)
 
 #the del can delete the entire dictionary
 #del thisdict
+
+#clear() - empties the dictionary
+#thisdict.clear()
