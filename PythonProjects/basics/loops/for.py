@@ -34,9 +34,8 @@ for x in fruits:
     for y in adj:
         print(x, y)
 
-'''
-for loops cannot be empty but if yours is put a pass
-to avoid errors
-for x in [0, 1, 3]:
-pass
-'''
+
+#for loops cannot be empty but if yours is put a pass
+#to avoid errors
+#for x in [0, 1, 3]:
+#pass
